@@ -96,4 +96,4 @@ Ai-engineering-roadmap/
 
 ---
 
-<p align="center"><i>"The only failure mode is stopping entirely."</i><br><sub>— AI Engineering Roadmap, Edition 8.0</sub></p>
+<p align="center"><i>"The only failure mode is stopping entirely."</i><br><sub>— AI Engineering Roadmap</sub></p>
