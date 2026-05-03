@@ -15,15 +15,15 @@ This log is the transparent audit trail for my ~22–36 month transition into AI
 | Date | Phase | Topic / Module | Key Achievement / Deliverable |
 | :--- | :--- | :--- | :--- |
 | **2026-05-01** | `Phase 01` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repository with initial folder structure (phase-1-python/1.1–1.5), .gitignore, README. First commit. |
-| **2026-05-01** | `Phase 01` | Python Fundamentals | Wrote `hello_world.py` (first Python program). Fixed double extension. Learned `git add`, `git commit`, `git push`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals | Installed Python 3.11 via micromamba, configured VS Code interpreter. Fixed `int a = 1` syntax to Python style. Created `add_two_numbers.py`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals | Created `taking_input_from_user.py` (first interactive program). Practiced string concatenation vs f-strings. |
+| **2026-05-01** | `Phase 01` | Python Fundamentals (Apna College) | Wrote `hello_world.py` (first Python program). Fixed double extension. Learned `git add`, `git commit`, `git push`. |
+| **2026-05-02** | `Phase 01` | Python Fundamentals (Apna College) | Installed Python 3.11 via micromamba, configured VS Code interpreter. Fixed `int a = 1` syntax to Python style. Created `add_two_numbers.py`. |
+| **2026-05-02** | `Phase 01` | Python Fundamentals (Apna College) | Created `taking_input_from_user.py` (first interactive program). Practiced string concatenation vs f-strings. |
 | **2026-05-02** | `Database Course` | Project Planning | Designed AI Answer Engine database schema (search_queries, web_pages, content_chunks, cached_answers, user_feedback). Showed teacher the vision. |
 | **2026-05-03** | `Repo Setup` | Portfolio Infrastructure | Added MIT LICENSE, improved README (environment setup, progress tracking, privacy cleanup). Linked GitHub on LinkedIn. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals | Wrote `area_of_square.py` (side² formula), `input_two_numbers_sum.py` (user input, float conversion). Learned to rename files to snake_case. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals (Apna College) | Wrote `area_of_square.py` (side² formula), `input_two_numbers_sum.py` (user input, float conversion). Learned to rename files to snake_case. |
 | **2026-05-03** | `Phase 01` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned up repo folders. Deleted placeholder `.gitkeep`. Created this progress log. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals | Wrote `average_of_two_numbers.py` (user input, float conversion, arithmetic mean formula). Pushed daily code. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals | Practiced conditionals (`if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`), string operations (`string_functions.py`, `combining_and_finding_length_of_string.py`), array indexing/slicing (`array_and_slicing.py`), character occurrence (`find_dollar_occurrence.py`), and string length (`first_name_length.py`). Pushed 8 programs. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals (Apna College) | Wrote `average_of_two_numbers.py` (user input, float conversion, arithmetic mean formula). Pushed daily code. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals (Apna College) | Practiced conditionals (`if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`), string operations (`string_functions.py`, `combining_and_finding_length_of_string.py`), array indexing/slicing (`array_and_slicing.py`), character occurrence (`find_dollar_occurrence.py`), and string length (`first_name_length.py`). Pushed 8 programs. |
 
 ---
 
