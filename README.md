@@ -12,7 +12,7 @@
 ## 👤 Executive Summary
 
 **Muhammad Abdurrehman Azam**  
-B.Sc. Software Engineering · University of Science & Technology Bannu (USTB)  
+Software Engineering student  
 
 This repository serves as the central hub, code portfolio, and audit trail for a ~22–36 month transition into AI Engineering. Built entirely using 220+ free, open-source resources, the curriculum spans fundamental mathematics to advanced LLM orchestration and cloud deployment. 
 
