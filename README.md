@@ -1,99 +1,144 @@
-## 🤖 AI Engineering Roadmap — 36-Month Journey
+<div align="center">
+  <h1>🚀 AI Engineering Roadmap & Portfolio</h1>
+  <p><i>From Absolute Beginner to Production-Ready AI Engineer.</i></p>
 
-> From Software Engineering student to AI Engineer. Built in public. Every commit is a day closer.
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)](#)
+  [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-F7D046.svg)](#)
+</div>
 
 ---
 
-### 👤 About
+## 👤 Executive Summary
 
 **Muhammad Abdurrehman Azam**  
-Software Engineering · University of Science & Technology Bannu (USTB)  
-Roll No. 17 · Reg. 2024-USTB-142538 · Currently: 4th Semester
+B.Sc. Software Engineering · University of Science & Technology Bannu (USTB)  
 
-**Target:** AI Engineering career → M.Sc. in AI at FAU Erlangen-Nürnberg, Germany  
-**Timeline:** 2025 → 2028
+This repository serves as the central hub, code portfolio, and audit trail for a ~22–36 month transition into AI Engineering. Built entirely using 220+ free, open-source resources, the curriculum spans fundamental mathematics to advanced LLM orchestration and cloud deployment. 
 
----
-
-### 📌 What This Repo Is
-
-This is my complete, documented journey through a custom **AI Engineering Roadmap (Edition 8.0)** — a 13-phase, 220+ resource curriculum built entirely from free materials. Every phase produces a real, working GitHub deliverable. This repo is the paper trail.
+**Primary Specialization Track:** LLM Application Engineer (Focusing on RAG systems, LLM APIs, AI agents, DSPy prompt optimization, LiteLLM routing, and FastAPI deployment).  
+**Target:** AI Engineering roles and M.Sc. program admission in Germany by 2028.
 
 ---
 
-### 🗺️ Roadmap Overview
+## 🏗️ Architecture & Tech Stack
 
-| Phase | Topic | Status |
-|-------|-------|--------|
-| 1 | Python Foundations + Dev Environment | 🔄 In Progress |
-| 2 | DSA & LeetCode (50 problems) | ⬜ Not Started |
-| 3 | Mathematics for AI (Lin. Algebra, Calculus, Stats) | ⬜ Not Started |
-| 4 | Data Engineering (SQL, Pandas, Pipelines) | ⬜ Not Started |
-| 5 | Classical Machine Learning | ⬜ Not Started |
-| 6 | MLOps & Production Fundamentals | ⬜ Not Started |
-| 7 | Deep Learning + Karpathy Series | ⬜ Not Started |
-| 8A | Computer Vision (YOLO, OpenCV) | ⬜ Not Started |
-| 8B | NLP & Transformers (Hugging Face) | ⬜ Not Started |
-| 8C | Speech & Audio AI (Whisper, TTS) | ⬜ Not Started |
-| 9 | Generative AI & LLMs (RAG, Fine-tuning, LoRA) | ⬜ Not Started |
-| 10 | AI Agents & Orchestration (LangChain, DSPy) | ⬜ Not Started |
-| 11 | AI Engineering Sprint (LiteLLM, Security, Evals) | ⬜ Not Started |
-| 12 | Cloud AI Services (AWS Bedrock, GCP Vertex AI) | ⬜ Not Started |
-| 13 | Capstone + Portfolio Finalisation | ⬜ Not Started |
+The skills targeted in this roadmap are categorized by their role in the ML lifecycle:
+
+* **Core & Languages:** `Python 3.11` · `SQL`
+* **Deep Learning & CV/Audio:** `PyTorch` · `Hugging Face` · `YOLOv8` · `OpenCV` · `Whisper`
+* **Generative AI & LLMs:** `LangChain` · `DSPy` · `LiteLLM` · `Pydantic AI` · `Ollama` · `vLLM`
+* **Data & MLOps:** `PostgreSQL + pgvector` · `MongoDB` · `Docker` · `MLflow` · `W&B` · `DVC` · `Evidently AI`
+* **Testing & Security:** `pytest` · `Great Expectations` · `Deepchecks` · `Presidio (PII)` · `CodeCarbon`
+* **Cloud & Infrastructure:** `AWS Bedrock` · `GCP Vertex AI` · `Kubernetes` · `Terraform`
 
 ---
 
-### 📁 Repo Structure
+## 🛠️ Local Environment Setup
 
-```
-Ai-engineering-roadmap/
-├── README.md
-├── progress-log.md
-├── phases/
-│   ├── phase-01-foundations/
-│   ├── phase-02-dsa-leetcode/
-│   ├── phase-03-mathematics/
-│   └── ...
-├── projects/
-│   ├── kaggle-runs/
-│   └── capstone/
-└── notes/
-```
+To reproduce the projects and scripts within this repository, ensure Python 3.11+ is installed on your machine.
 
----
+1. **Clone the repository:**
 
-### 🛠️ Stack Being Learned
+       git clone https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git
+       cd Ai-engineering-roadmap
 
-`Python` · `PyTorch` · `Hugging Face` · `FastAPI` · `PostgreSQL + pgvector`  
-`Docker` · `MLflow` · `DVC` · `LangChain` · `LiteLLM` · `Pydantic AI`  
-`AWS Bedrock` · `GCP Vertex AI` · `Kubernetes` · `Terraform`
+2. **Initialize a virtual environment:**
+
+       python -m venv venv
+
+3. **Activate the environment:**
+   * **Windows:** `.\venv\Scripts\activate`
+   * **Mac/Linux:** `source venv/bin/activate`
+
+4. **Install dependencies:**
+
+       pip install -r requirements.txt
 
 ---
 
-### 📐 Rules
+## 🗺️ Curriculum Overview
 
-- Every phase has a deliverable. No phase is "done" without a pushed project.
-- All resources are 100% free.
-- Honest logging — if a phase takes 3x longer, it gets logged as 3x longer.
-- One vertical after Phase 8: deep on NLP/LLMs, awareness on everything else.
-- Minimum Viable Week during exams: 1 LeetCode problem. That's it.
+Detailed daily and weekly progress is tracked transparently in the [Progress Log](progress-log.md). The curriculum is broken into core phases and specialized sub-phases.
+
+| Phase | Core Focus Area | Duration | Status |
+| :---: | :--- | :--- | :---: |
+| **01** | Programming Foundations (Python, OOP, NumPy, Git) | 5 weeks | 🔄 In Progress |
+| **02** | Algorithm Engineering (50 LeetCode problems) | Ongoing | ⬜ Pending |
+| **03** | Dev Environment & AI Tools (Linux, SSH, Cursor) | 1 week | ⬜ Pending |
+| **04** | Mathematics for AI (Neural Network from scratch) | 10 weeks | ⬜ Pending |
+| **05** | Data Engineering (SQL, Pandas, APIs, DVC) | 4 weeks | ⬜ Pending |
+| **05B**| Databases for AI (pgvector, MongoDB, S3) | 1 week | ⬜ Pending |
+| **06** | Classical Machine Learning (XGBoost, Evaluation, SHAP) | 8 weeks | ⬜ Pending |
+| **07** | Production Engineering (FastAPI, Docker, CI/CD, MLflow) | 7 weeks | ⬜ Pending |
+| **07B**| ML-Specific Testing (Great Expectations, Deepchecks) | 4 days | ⬜ Pending |
+| **08** | Deep Learning (PyTorch, fast.ai, Karpathy Series, HF) | 8 weeks | ⬜ Pending |
+| **08B**| Computer Vision (OpenCV, YOLO, Segmentation) | 2 weeks | ⬜ Pending |
+| **08C**| Speech & Audio AI (Whisper, TTS, Diarisation) | 1 week | ⬜ Pending |
+| **08.5**| Open-Source LLM Deployment (Ollama, vLLM Benchmarking) | 4 days | ⬜ Pending |
+| **09** | MLOps (Quantization, Data Drift, W&B Sweeps) | 4 weeks | ⬜ Pending |
+| **09B**| Responsible AI & Ethics (Bias Audits, LIME, Presidio PII) | 1 week | ⬜ Pending |
+| **09C**| LLM Alignment (RLHF & DPO) | 1 week | ⬜ Pending |
+| **09D**| Feature Stores (Feast) | 3 days | ⬜ Pending |
+| **10** | Generative AI (LoRA, RAG, ChromaDB, DSPy, Multimodal) | 7 weeks | ⬜ Pending |
+| **10B**| Advanced RAG Evaluation (RAGAS, Embeddings, Chunking) | 5 days | ⬜ Pending |
+| **11** | AI Engineering Sprint (LiteLLM, Pydantic AI, Agents, Security)| 13 weeks| ⬜ Pending |
+| **11B**| Streaming & Infrastructure as Code (Terraform) | 1 week | ⬜ Pending |
+| **11C**| Kubernetes & gRPC | 1 week | ⬜ Pending |
+| **12** | Interview Preparation (System Design, Certifications) | 1 week | ⬜ Pending |
+| **13** | Career & Networking (Freelance, M.Sc. Applications) | Ongoing | ⬜ Pending |
 
 ---
 
-### 🎯 End Goal
+## 📁 Repository Architecture
 
-- 10+ production-quality AI projects on GitHub
-- 5 Kaggle competition entries with documented results
-- A deployed RAG application and fine-tuned model on Hugging Face Hub
-- A strong FAU Erlangen-Nürnberg M.Sc. application with proof of work
+Following standard Software Engineering hygiene protocols for Python packaging and production:
+
+    Ai-engineering-roadmap/
+    ├── LICENSE
+    ├── README.md
+    ├── progress-log.md
+    ├── requirements.txt
+    ├── phases/
+    │   ├── phase-01-foundations/
+    │   ├── phase-02-dsa-leetcode/
+    │   ├── phase-03-mathematics/
+    │   └── ...
+    ├── projects/
+    │   ├── kaggle-runs/
+    │   └── capstone/
+    └── notes/
 
 ---
 
-### 📬 Contact
+## 📐 Engineering Methodology
 
-- GitHub: [@AbdurrehmanAzam](https://github.com/AbdurrehmanAzam)
-- Email: abdurrehmanazam300@gmail.com
+To ensure steady progress and maintain high standards, this repository adheres to the following constraints:
+
+1. **Deliverable-Driven Phase Gates:** No phase is considered complete without a functional, pushed code deliverable.
+2. **Open-Source Reliance:** The curriculum is built entirely utilizing free and open-source educational resources.
+3. **Transparent Auditing:** Development timelines, including roadblocks and delays, are logged accurately. Honest logging is enforced.
+4. **Specialization Focus:** Broad awareness across all AI domains, with deep vertical specialization in NLP/LLMs following Phase 8.
+5. **Consistency Protocol:** A minimum weekly commit requirement is strictly enforced, scaling down to a "Minimum Viable Week" (1 LeetCode problem per day) during university exam periods.
 
 ---
 
-<p align="center"><i>"The only failure mode is stopping entirely."</i><br><sub>— AI Engineering Roadmap</sub></p>
+## 🎯 Key Deliverables
+
+Upon completion, this repository will yield:
+- **10+** Production-quality, deployable AI projects.
+- **5** Documented Kaggle competition entries.
+- **1** Deployed RAG application functioning across 3+ LLM providers via LiteLLM.
+- **1** DPO Fine-tuned model hosted on the Hugging Face Hub.
+- **5** Complete System Design architectures documented and published.
+
+---
+
+## 📬 Contact & Links
+
+- **GitHub:** [@AbdurrehmanAzam](https://github.com/AbdurrehmanAzam)
+- **Email:** abdurrehmanazam300@gmail.com
+
+---
+
+<p align="center"><i>"The best time to start was yesterday. The second best time is now. The third best time will never come."</i></p>
