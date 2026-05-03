@@ -23,6 +23,7 @@ This log is the transparent audit trail for my ~22–36 month transition into AI
 | **2026-05-03** | `Phase 01` | Python Fundamentals | Wrote `area_of_square.py` (side² formula), `input_two_numbers_sum.py` (user input, float conversion). Learned to rename files to snake_case. |
 | **2026-05-03** | `Phase 01` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned up repo folders. Deleted placeholder `.gitkeep`. Created this progress log. |
 | **2026-05-03** | `Phase 01` | Python Fundamentals | Wrote `average_of_two_numbers.py` (user input, float conversion, arithmetic mean formula). Pushed daily code. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals | Practiced conditionals (`if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`), string operations (`string_functions.py`, `combining_and_finding_length_of_string.py`), array indexing/slicing (`array_and_slicing.py`), character occurrence (`find_dollar_occurrence.py`), and string length (`first_name_length.py`). Pushed 8 programs. |
 
 ---
 
