@@ -2,52 +2,67 @@
 
 > "Build things. Ship things. Understand the math behind things."
 
-This log is the transparent audit trail for my ~22–36 month transition into AI Engineering, following Edition 10.0 of the roadmap. It tracks active coding days, completed modules, and shipped deliverables across all 13 phases.
+Transparent audit trail for my ~22–36 month transition into AI Engineering (Edition 10.0, Track A – LLM Application Engineer). Tracks active coding days, completed modules, and shipped deliverables across all 13 phases.
 
-**Track:** LLM Application Engineer (Track A)  
-**Start Date:** 1 May 2026  
-**Target End:**  2028/2029
+**Start Date:** 1 May 2026 · **Target End:** 2028/2029
+
+---
+
+## 🎯 Current Focus
+
+**Phase 01 · Programming Foundations** — Python fundamentals: variables, I/O, conditionals, strings, slicing
+
+## ⏭️ Next Up
+
+**Phase 01** — OOP (classes, inheritance, dunder methods) · NumPy & Matplotlib basics
 
 ---
 
 ## 🗂️ 2026 Log
 
-| Date | Phase | Topic / Module | Key Achievement / Deliverable |
+> **Area key:** `Phase 01–13` = roadmap phase · `Admin` = repo/portfolio work · `Side Quest` = parallel coursework
+
+| Date | Area | Topic | Key Achievement / Deliverables |
 | :--- | :--- | :--- | :--- |
-| **2026-05-01** | `Phase 01` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repository with initial folder structure (phase-1-python/1.1–1.5), .gitignore, README. First commit. |
-| **2026-05-01** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1) | Watched Lecture 1 (Introduction, variables, data types, operators). Wrote `hello_world.py` (first Python program). Fixed double extension. Learned `git add`, `git commit`, `git push`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Installed Python 3.11 via micromamba, configured VS Code interpreter. Fixed `int a = 1` syntax to Python style. Created `add_two_numbers.py`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Created `taking_input_from_user.py` (first interactive program). Practiced string concatenation vs f‑strings. |
-| **2026-05-02** | `Database Course` | Project Planning | Designed AI Answer Engine database schema (search_queries, web_pages, content_chunks, cached_answers, user_feedback). Showed teacher the vision. |
-| **2026-05-03** | `Repo Setup` | Portfolio Infrastructure | Added MIT LICENSE, improved README (environment setup, progress tracking, privacy cleanup). Linked GitHub on LinkedIn. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `area_of_square.py` (side² formula). Learned to rename files to snake_case. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `input_two_numbers_sum.py` (user input, float conversion). |
-| **2026-05-03** | `Phase 01` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned up repo folders. Deleted placeholder `.gitkeep`. Created this progress log. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `average_of_two_numbers.py` (user input, float conversion, arithmetic mean formula). Pushed daily code. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed Lecture 2 exercises — conditionals: `if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | String operations: `string_functions.py` (endswith, capitalize, replace, find). |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Array indexing & slicing: `array_and_slicing.py` (positive & negative indices). |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | String length & concatenation: `combining_and_finding_length_of_string.py`, `first_name_length.py`. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Character occurrence: `find_dollar_occurrence.py` (`.count()` method). **Pushed all 8 programs from today's session.** |
+| **2026-05-01** | `Phase 01` | Setup & Git | Learned Divio docs framework. Set up SSH key. Created repo with folder structure (`phase-1-python/1.1-1.5`), `.gitignore`, README. First commit. Wrote [`hello_world.py`](phase-1-python/1.1-fundamentals/hello_world.py). |
+| **2026-05-02** | `Phase 01` | Python Fundamentals · Lec 1–2 | Installed Python 3.11 (micromamba), configured VS Code. Practiced f-strings vs concatenation. Wrote [`add_two_numbers.py`](phase-1-python/1.1-fundamentals/add_two_numbers.py), [`taking_input_from_user.py`](phase-1-python/1.1-fundamentals/taking_input_from_user.py). |
+| **2026-05-02** | `Side Quest` | Database Course – Planning | Designed AI Answer Engine schema: `search_queries`, `web_pages`, `content_chunks`, `cached_answers`, `user_feedback`. Presented to teacher. |
+| **2026-05-03** | `Admin` | Repo Hygiene | Added MIT LICENSE, rewrote README (env setup, privacy cleanup). Linked GitHub on LinkedIn. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals · Lec 2 | Resolved first `git push` rejection (`git pull`). Wrote 9 exercises covering arithmetic, conditionals, strings & slicing: [`area_of_square.py`](phase-1-python/1.1-fundamentals/area_of_square.py), [`input_two_numbers_sum.py`](phase-1-python/1.1-fundamentals/input_two_numbers_sum.py), [`average_of_two_numbers.py`](phase-1-python/1.1-fundamentals/average_of_two_numbers.py), [`if_else_conditions.py`](phase-1-python/1.1-fundamentals/if_else_conditions.py), [`if_else_grade_problem.py`](phase-1-python/1.1-fundamentals/if_else_grade_problem.py), [`nested_if_else.py`](phase-1-python/1.1-fundamentals/nested_if_else.py), [`string_functions.py`](phase-1-python/1.1-fundamentals/string_functions.py), [`array_and_slicing.py`](phase-1-python/1.1-fundamentals/array_and_slicing.py), [`find_dollar_occurrence.py`](phase-1-python/1.1-fundamentals/find_dollar_occurrence.py). |
 
 ---
 
 ## 📋 Phase Quick-Reference
-*For a detailed breakdown, see the main [README.md](README.md).*
 
-* **Phase 1:** Programming Foundations (Python, OOP, NumPy, Matplotlib, Git)
-* **Phase 2:** Algorithm Engineering (LeetCode, NeetCode 150)
-* **Phase 3:** Dev Environment & AI Tools (Linux, SSH, Cursor)
-* **Phase 4:** Mathematics for AI (Linear Algebra, Calculus, Stats)
-* **Phase 5 & 5B:** Data Engineering & AI Databases (SQL, Pandas, DVC, pgvector)
-* **Phase 6 & 6B:** Classical Machine Learning & System Design Primer
-* **Phase 7 & 7B:** Production Engineering & Testing (FastAPI, Docker, MLflow, CodeCarbon)
-* **Phase 8, 8B, 8C, 8.5:** Deep Learning, Computer Vision, Audio AI, open-source LLM deployment
-* **Phase 9 Series:** MLOps, Ethics, Alignment (RLHF/DPO), Feature Stores (Feast)
-* **Phase 10 & 10B:** Generative AI, RAG, LoRA fine-tuning, Diffusion, DSPy, Advanced RAG evaluation
-* **Phase 11 Series:** AI Engineering Sprint, Streaming/IaC, Kubernetes/gRPC
-* **Phase 12:** Interview Preparation, Certifications, Portfolio Website
-* **Phase 13:** Career, Networking, FAU Erlangen M.Sc. Application
+*For a full breakdown see [README.md](README.md).*
+
+| # | Phase | Focus |
+| :---: | :--- | :--- |
+| 01 | Programming Foundations | Python, OOP, NumPy, Matplotlib, Git |
+| 02 | Algorithm Engineering | LeetCode / NeetCode 150 |
+| 03 | Dev Environment & AI Tools | Linux, SSH, Cursor |
+| 04 | Mathematics for AI | Linear Algebra, Calculus, Stats |
+| 05 | Data Engineering | SQL, Pandas, DVC, APIs |
+| 05B | Databases for AI | pgvector, MongoDB, S3 |
+| 06 | Classical ML | XGBoost, SHAP, Evaluation |
+| 06B | System Design Primer | — |
+| 07 | Production Engineering | FastAPI, Docker, MLflow, CodeCarbon |
+| 07B | ML Testing | Great Expectations, Deepchecks |
+| 08 | Deep Learning | PyTorch, fast.ai, Hugging Face |
+| 08B | Computer Vision | OpenCV, YOLO |
+| 08C | Speech & Audio AI | Whisper, TTS |
+| 08.5 | Open-Source LLM Deployment | Ollama, vLLM |
+| 09 | MLOps | Quantization, Drift, W&B |
+| 09B | Responsible AI & Ethics | Bias audits, LIME, Presidio PII |
+| 09C | LLM Alignment | RLHF / DPO |
+| 09D | Feature Stores | Feast |
+| 10 | Generative AI | LoRA, RAG, ChromaDB, DSPy |
+| 10B | Advanced RAG Evaluation | RAGAS, Embeddings |
+| 11 | AI Engineering Sprint | LiteLLM, Pydantic AI, Agents |
+| 11B | Streaming & IaC | Terraform |
+| 11C | Kubernetes & gRPC | — |
+| 12 | Interview Prep | System Design, Certifications |
+| 13 | Career & Networking | Freelance, M.Sc. applications |
 
 ---
 
