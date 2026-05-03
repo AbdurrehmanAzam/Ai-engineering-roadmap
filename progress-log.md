@@ -10,25 +10,52 @@ This log is the transparent audit trail for my ~22–36 month transition into AI
 
 ---
 
+## 📊 Stats at a Glance
+
+| Metric | Value |
+| :--- | :--- |
+| Active Coding Days | 3 |
+| Phases Started | 1 of 13 |
+| Files Committed | 15+ |
+| Current Streak | 3 days (2026-05-01 → 2026-05-03) |
+
+---
+
+## 🎯 Current Focus & Next Up
+
+| | |
+| :--- | :--- |
+| **Now** | Phase 01 — Python Fundamentals (Lecture 2: conditionals, strings, lists) |
+| **Next** | Phase 01 — Lecture 3 (loops, functions, list comprehensions) |
+| **Upcoming** | Phase 01 — 1.2 OOP (classes, inheritance, dunder methods) |
+
+---
+
 ## 🗂️ 2026 Log
 
-| Date | Phase | Topic / Module | Key Achievement / Deliverable |
-| :--- | :--- | :--- | :--- |
-| **2026-05-01** | `Phase 01` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repository with initial folder structure (phase-1-python/1.1–1.5), .gitignore, README. First commit. |
-| **2026-05-01** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1) | Watched Lecture 1 (Introduction, variables, data types, operators). Wrote `hello_world.py` (first Python program). Fixed double extension. Learned `git add`, `git commit`, `git push`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Installed Python 3.11 via micromamba, configured VS Code interpreter. Fixed `int a = 1` syntax to Python style. Created `add_two_numbers.py`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Created `taking_input_from_user.py` (first interactive program). Practiced string concatenation vs f‑strings. |
-| **2026-05-02** | `Database Course` | Project Planning | Designed AI Answer Engine database schema (search_queries, web_pages, content_chunks, cached_answers, user_feedback). Showed teacher the vision. |
-| **2026-05-03** | `Repo Setup` | Portfolio Infrastructure | Added MIT LICENSE, improved README (environment setup, progress tracking, privacy cleanup). Linked GitHub on LinkedIn. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `area_of_square.py` (side² formula). Learned to rename files to snake_case. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `input_two_numbers_sum.py` (user input, float conversion). |
-| **2026-05-03** | `Phase 01` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned up repo folders. Deleted placeholder `.gitkeep`. Created this progress log. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `average_of_two_numbers.py` (user input, float conversion, arithmetic mean formula). Pushed daily code. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed Lecture 2 exercises — conditionals: `if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | String operations: `string_functions.py` (endswith, capitalize, replace, find). |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Array indexing & slicing: `array_and_slicing.py` (positive & negative indices). |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | String length & concatenation: `combining_and_finding_length_of_string.py`, `first_name_length.py`. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Character occurrence: `find_dollar_occurrence.py` (`.count()` method). **Pushed all 8 programs from today's session.** |
+### May 2026
+
+#### 2026-05-03
+
+| Phase | Topic / Module | Key Achievement / Deliverable |
+| :--- | :--- | :--- |
+| `Repo Setup` | Portfolio Infrastructure | Added MIT LICENSE, improved README (environment setup, progress tracking, privacy cleanup). Linked GitHub on LinkedIn. |
+| `Phase 01` | Python Fundamentals (Lecture 2) | Wrote 8 programs: `area_of_square.py`, `input_two_numbers_sum.py`, `average_of_two_numbers.py`. Conditionals: `if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`. Strings: `string_functions.py`. Array/slicing: `array_and_slicing.py`. String utils: `combining_and_finding_length_of_string.py`, `first_name_length.py`, `find_dollar_occurrence.py`. Pushed all 8 programs. |
+| `Phase 01` | Git Workflow | Resolved first `git push` rejection via `git pull`. Cleaned up repo folders. Deleted `.gitkeep` placeholders. Created this progress log. |
+
+#### 2026-05-02
+
+| Phase | Topic / Module | Key Achievement / Deliverable |
+| :--- | :--- | :--- |
+| `Phase 01` | Python Fundamentals (Lectures 1–2) | Installed Python 3.11 via micromamba, configured VS Code interpreter. Fixed `int a = 1` syntax to Python style. Wrote `add_two_numbers.py`, `taking_input_from_user.py`. Practiced string concatenation vs f‑strings. |
+| `Database Course` | Project Planning | Designed AI Answer Engine database schema (search_queries, web_pages, content_chunks, cached_answers, user_feedback). Presented concept to teacher. |
+
+#### 2026-05-01
+
+| Phase | Topic / Module | Key Achievement / Deliverable |
+| :--- | :--- | :--- |
+| `Phase 01` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repo with initial folder structure (phase-1-python/1.1–1.5), `.gitignore`, README. First commit & push. |
+| `Phase 01` | Python Fundamentals (Lecture 1) | Watched Lecture 1 (introduction, variables, data types, operators). Wrote `hello_world.py` (first Python program). Fixed double extension issue. Learned `git add`, `git commit`, `git push`. |
 
 ---
 
@@ -52,10 +79,30 @@ This log is the transparent audit trail for my ~22–36 month transition into AI
 ---
 
 ## 🔄 Weekly Review Habit
-*Every Sunday, 30 minutes*
+*Every Sunday, ~30 minutes*
 
 - [ ] Update this log with the week's accomplishments
+- [ ] Update the "Stats at a Glance" and "Current Focus" sections
 - [ ] Reflect: what worked? what struggled? what's next?
 - [ ] Polish any project READMEs (screenshots, diagrams)
 - [ ] Post a LinkedIn update
-- [ ] Review ethical reflection log (15 min)
+- [ ] Review ethical reflection log (15 min)
+
+---
+
+## 📝 How to Add an Entry
+
+1. Update **Stats at a Glance** (increment active days, streak, files committed).
+2. Update **Current Focus & Next Up** to reflect where you are now.
+3. Add a new `#### YYYY-MM-DD` sub-heading under the correct month in **2026 Log** (newest date at the top).
+4. Add one or more rows to that day's table using the format below.
+
+**Entry format:**
+
+```markdown
+#### YYYY-MM-DD
+
+| Phase | Topic / Module | Key Achievement / Deliverable |
+| :--- | :--- | :--- |
+| `Phase XX` | Topic name | What you built, learned, or shipped. Reference filenames in backticks. |
+```

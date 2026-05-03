@@ -12,7 +12,7 @@
 ## 👤 Executive Summary
 
 **Muhammad Abdurrehman Azam**  
-B.Sc. Software Engineering · University of Science & Technology Bannu (USTB)  
+Software Engineering student  
 
 This repository serves as the central hub, code portfolio, and audit trail for a ~22–36 month transition into AI Engineering. Built entirely using 220+ free, open-source resources, the curriculum spans fundamental mathematics to advanced LLM orchestration and cloud deployment. 
 
@@ -63,7 +63,7 @@ To reproduce the projects and scripts within this repository, ensure Python 3.11
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git)
+   git clone https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git
    cd Ai-engineering-roadmap
    ```
 
