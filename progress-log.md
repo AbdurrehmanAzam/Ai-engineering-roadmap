@@ -6,29 +6,35 @@ This log is the transparent audit trail for my ~22–36 month transition into AI
 
 **Track:** LLM Application Engineer (Track A)  
 **Start Date:** 1 May 2026  
-**Target End:**  2028/2029
+**Target End:** 2028/2029
+
+---
+
+## 🎯 Current Focus
+
+**Phase 01 — Python Fundamentals:** Completing the Shradha Khapra lecture series and building a daily coding habit.
+
+## ⏭️ Next Up
+
+**Phase 01 — OOP & Modules:** Moving into `1.2-oop/` with object-oriented Python.  
+**Phase 02 — Algorithms:** Beginning LeetCode easy problems alongside Phase 01.
 
 ---
 
 ## 🗂️ 2026 Log
 
+> **Phase taxonomy:** `Phase 01–13` = roadmap phases · `Side Quest` = parallel university/project work · `Admin` = repo/infrastructure tasks
+
+### 📅 May 2026
+
 | Date | Phase | Topic / Module | Key Achievement / Deliverable |
 | :--- | :--- | :--- | :--- |
-| **2026-05-01** | `Phase 01` | Documentation & Git | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repository with initial folder structure (phase-1-python/1.1–1.5), .gitignore, README. First commit. |
-| **2026-05-01** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1) | Watched Lecture 1 (Introduction, variables, data types, operators). Wrote `hello_world.py` (first Python program). Fixed double extension. Learned `git add`, `git commit`, `git push`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Installed Python 3.11 via micromamba, configured VS Code interpreter. Fixed `int a = 1` syntax to Python style. Created `add_two_numbers.py`. |
-| **2026-05-02** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 1 & 2) | Created `taking_input_from_user.py` (first interactive program). Practiced string concatenation vs f‑strings. |
-| **2026-05-02** | `Database Course` | Project Planning | Designed AI Answer Engine database schema (search_queries, web_pages, content_chunks, cached_answers, user_feedback). Showed teacher the vision. |
-| **2026-05-03** | `Repo Setup` | Portfolio Infrastructure | Added MIT LICENSE, improved README (environment setup, progress tracking, privacy cleanup). Linked GitHub on LinkedIn. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `area_of_square.py` (side² formula). Learned to rename files to snake_case. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `input_two_numbers_sum.py` (user input, float conversion). |
-| **2026-05-03** | `Phase 01` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned up repo folders. Deleted placeholder `.gitkeep`. Created this progress log. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Wrote `average_of_two_numbers.py` (user input, float conversion, arithmetic mean formula). Pushed daily code. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed Lecture 2 exercises — conditionals: `if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | String operations: `string_functions.py` (endswith, capitalize, replace, find). |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Array indexing & slicing: `array_and_slicing.py` (positive & negative indices). |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | String length & concatenation: `combining_and_finding_length_of_string.py`, `first_name_length.py`. |
-| **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Character occurrence: `find_dollar_occurrence.py` (`.count()` method). **Pushed all 8 programs from today's session.** |
+| **2026-05-01** | `Phase 01` | Docs & Git Setup | Learned Divio's documentation framework. Set up SSH key. Created `Ai-engineering-roadmap` repo with folder structure (`phase-1-python/1.1–1.5`), `.gitignore`, `README`. First commit pushed. |
+| **2026-05-01** | `Phase 01` | Python Fundamentals — Lec 1 | Watched Lecture 1 (variables, data types, operators). Wrote [`hello_world.py`](phase-1-python/1.1-fundamentals/hello_world.py). Learned `git add`, `git commit`, `git push`. |
+| **2026-05-02** | `Phase 01` | Python Fundamentals — Lec 1 & 2 | Set up Python 3.11 via micromamba; configured VS Code interpreter. Wrote [`add_two_numbers.py`](phase-1-python/1.1-fundamentals/add_two_numbers.py) and [`taking_input_from_user.py`](phase-1-python/1.1-fundamentals/taking_input_from_user.py). Practiced f-strings vs string concatenation. |
+| **2026-05-02** | `Side Quest` | DB Course — Project Planning | Designed AI Answer Engine database schema (`search_queries`, `web_pages`, `content_chunks`, `cached_answers`, `user_feedback`). Presented vision to teacher. |
+| **2026-05-03** | `Admin` | Portfolio Infrastructure & Git | Added MIT LICENSE; improved README (env setup, privacy cleanup). Resolved first `git push` rejection with `git pull`. Created this progress log. Linked GitHub on LinkedIn. |
+| **2026-05-03** | `Phase 01` | Python Fundamentals — Lec 2 | Completed all Lecture 2 exercises (10 programs). Covered arithmetic, conditionals, strings, and array slicing. Notable files: [`if_else_grade_problem.py`](phase-1-python/1.1-fundamentals/if_else_grade_problem.py), [`nested_if_else.py`](phase-1-python/1.1-fundamentals/nested_if_else.py), [`string_functions.py`](phase-1-python/1.1-fundamentals/string_functions.py), [`array_and_slicing.py`](phase-1-python/1.1-fundamentals/array_and_slicing.py). See full folder → [`1.1-fundamentals/`](phase-1-python/1.1-fundamentals/). |
 
 ---
 
