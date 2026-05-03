@@ -57,28 +57,46 @@ The skills targeted in this roadmap are categorized by their role in the ML life
 
 ---
 
-## 🛠️ Local Environment Setup
+## 🛠️ How to Run (Local Setup)
 
-To reproduce the projects and scripts within this repository, ensure Python 3.11+ is installed on your machine.
+**Requirements:** Python 3.10+ (recommended: 3.11)
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git)
+   git clone https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git
    cd Ai-engineering-roadmap
    ```
 
-2. **Initialize a virtual environment:**
+2. **Create a virtual environment:**
    ```bash
-   python -m venv venv
+   python -m venv .venv
    ```
 
 3. **Activate the environment:**
-   * **Windows:** `.\venv\Scripts\activate`
-   * **Mac/Linux:** `source venv/bin/activate`
 
-4. **Install dependencies:**
+   **Windows (PowerShell):**
+   ```powershell
+   .venv\Scripts\Activate.ps1
+   ```
+   **macOS/Linux:**
+   ```bash
+   source .venv/bin/activate
+   ```
+
+4. **Upgrade pip:**
+   ```bash
+   python -m pip install --upgrade pip
+   ```
+
+5. **Install dependencies (optional):**
+   If a `requirements.txt` exists:
    ```bash
    pip install -r requirements.txt
+   ```
+
+6. **Run a sample file:**
+   ```bash
+   python phase-1-python/1.1-fundamentals/hello_world.py
    ```
 
 ---
@@ -119,23 +137,16 @@ Detailed daily and weekly progress is tracked transparently in the [Progress Log
 ## 📁 Repo Structure
 
     Ai-engineering-roadmap/
+    ├── .gitignore
     ├── LICENSE
     ├── README.md
     ├── progress-log.md
-    ├── requirements.txt
-    ├── phase-1-python/
-    │   ├── 1.1-fundamentals/
-    │   ├── 1.2-oop/
-    │   ├── 1.3-numpy-matplotlib/
-    │   ├── 1.4-venv-jupyter/
-    │   └── 1.5-git-github/
-    ├── phase-2-algorithms/           (coming soon)
-    ├── phase-3-dev-environment/      (coming soon)
-    ├── ...
-    ├── projects/
-    │   ├── kaggle-runs/
-    │   └── capstone/
-    └── notes/
+    └── phase-1-python/
+        ├── 1.1-fundamentals/
+        ├── 1.2-oop/
+        ├── 1.3-numpy-matplotlib/
+        ├── 1.4-venv-jupyter/
+        └── 1.5-git-github/
 
 ---
 
