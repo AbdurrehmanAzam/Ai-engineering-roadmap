@@ -9,13 +9,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdurrehmanAzam&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="Abdurrehman's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrehmanAzam&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="Top Languages" width="48%">
-</div>
-
----
-
 ## 👤 Executive Summary
 
 **Muhammad Abdurrehman Azam**  
