@@ -76,9 +76,14 @@ To reproduce the projects and scripts within this repository, ensure Python 3.11
    * **Windows:** `.\venv\Scripts\activate`
    * **Mac/Linux:** `source venv/bin/activate`
 
-4. **Install dependencies:**
+4. **Install dependencies** *(optional — no dependencies required for Phase 1 scripts)*:
    ```bash
    pip install -r requirements.txt
+   ```
+
+5. **Run an example script:**
+   ```bash
+   python phase-1-python/1.1-fundamentals/hello_world.py
    ```
 
 ---
@@ -122,7 +127,6 @@ Detailed daily and weekly progress is tracked transparently in the [Progress Log
     ├── LICENSE
     ├── README.md
     ├── progress-log.md
-    ├── requirements.txt
     ├── phase-1-python/
     │   ├── 1.1-fundamentals/
     │   ├── 1.2-oop/
@@ -131,11 +135,7 @@ Detailed daily and weekly progress is tracked transparently in the [Progress Log
     │   └── 1.5-git-github/
     ├── phase-2-algorithms/           (coming soon)
     ├── phase-3-dev-environment/      (coming soon)
-    ├── ...
-    ├── projects/
-    │   ├── kaggle-runs/
-    │   └── capstone/
-    └── notes/
+    └── ...                           (future phases)
 
 ---
 
