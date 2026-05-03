@@ -53,14 +53,14 @@ graph TD
 
 ## 🏗️ Tech Stack
 
-The skills targeted in this roadmap are categorized by their role in the ML lifecycle:
+The skills targeted in this roadmap are categorized by their role in the ML lifecycle. Items marked *(awareness)* represent broad architectural knowledge rather than deep specialization for the LLM Application track.
 
 * **Core & Languages:** `Python 3.11` · `SQL`
-* **Deep Learning & CV/Audio:** `PyTorch` · `Hugging Face` · `YOLOv8` · `OpenCV` · `Whisper`
+* **Deep Learning & CV/Audio:** `PyTorch` · `Hugging Face` · `YOLOv8` *(awareness)* · `OpenCV` *(awareness)* · `Whisper` *(awareness)*
 * **Generative AI & LLMs:** `LangChain` · `DSPy` · `LiteLLM` · `Pydantic AI` · `Ollama` · `vLLM`
 * **Data & MLOps:** `PostgreSQL + pgvector` · `MongoDB` · `Docker` · `MLflow` · `W&B` · `DVC` · `Evidently AI`
 * **Testing & Security:** `pytest` · `Great Expectations` · `Deepchecks` · `Presidio (PII)` · `CodeCarbon`
-* **Cloud & Infrastructure:** `AWS Bedrock` · `GCP Vertex AI` · `Kubernetes` · `Terraform`
+* **Cloud & Infrastructure:** `AWS Bedrock` · `GCP Vertex AI` · `Kubernetes` *(awareness)* · `Terraform` *(awareness)*
 
 ---
 
