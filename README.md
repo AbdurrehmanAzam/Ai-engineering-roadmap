@@ -7,6 +7,13 @@
   [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-F7D046.svg)](#)
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdurrehmanAzam&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" alt="Abdurrehman's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrehmanAzam&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="Top Languages" width="48%">
+</div>
+
 ---
 
 ## 👤 Executive Summary
@@ -21,7 +28,30 @@ This repository serves as the central hub, code portfolio, and audit trail for a
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## 🗺️ Visual Architecture & Roadmap
+```mermaid
+graph TD
+    A[Phase 1: Programming Foundations] --> B[Phase 4: Mathematics for AI]
+    B --> C[Phase 5: Data Engineering]
+    C --> D[Phase 6: Classical Machine Learning]
+    D --> E[Phase 7: Production Engineering & MLOps]
+    E --> F[Phase 8: Deep Learning Foundations]
+    
+    F --> G{Vertical Specialization}
+    G -->|Awareness| H[Phase 8B/8C: Computer Vision & Audio]
+    G -->|Deep Dive| I[Phase 9: Advanced MLOps & Ethics]
+    
+    I --> J[Phase 10: Generative AI & RAG]
+    J --> K[Phase 11: AI Engineering Sprint]
+    K --> L[Phase 12 & 13: Capstone, Portfolio & Career]
+    
+    style G fill:#f9f,stroke:#333,stroke-width:2px
+    style K fill:#bbf,stroke:#333,stroke-width:2px
+```
+
+---
+
+## 🏗️ Tech Stack
 
 The skills targeted in this roadmap are categorized by their role in the ML lifecycle:
 
@@ -39,27 +69,30 @@ The skills targeted in this roadmap are categorized by their role in the ML life
 To reproduce the projects and scripts within this repository, ensure Python 3.11+ is installed on your machine.
 
 1. **Clone the repository:**
-
-       git clone https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git
-       cd Ai-engineering-roadmap
+   ```bash
+   git clone [https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git)
+   cd Ai-engineering-roadmap
+   ```
 
 2. **Initialize a virtual environment:**
-
-       python -m venv venv
+   ```bash
+   python -m venv venv
+   ```
 
 3. **Activate the environment:**
    * **Windows:** `.\venv\Scripts\activate`
    * **Mac/Linux:** `source venv/bin/activate`
 
 4. **Install dependencies:**
-
-       pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ---
 
-## 🗺️ Curriculum Overview
+## 📅 Curriculum Overview
 
-Detailed daily and weekly progress is tracked transparently in the [Progress Log](progress-log.md). The curriculum is broken into core phases and specialized sub-phases.
+Detailed daily and weekly progress is tracked transparently in the [Progress Log](progress-log.md). 
 
 | Phase | Core Focus Area | Duration | Status |
 | :---: | :--- | :--- | :---: |
@@ -90,20 +123,22 @@ Detailed daily and weekly progress is tracked transparently in the [Progress Log
 
 ---
 
-## 📁 Repository Architecture
-
-Following standard Software Engineering hygiene protocols for Python packaging and production:
+## 📁 Repo Structure
 
     Ai-engineering-roadmap/
     ├── LICENSE
     ├── README.md
     ├── progress-log.md
     ├── requirements.txt
-    ├── phases/
-    │   ├── phase-01-foundations/
-    │   ├── phase-02-dsa-leetcode/
-    │   ├── phase-03-mathematics/
-    │   └── ...
+    ├── phase-1-python/
+    │   ├── 1.1-fundamentals/
+    │   ├── 1.2-oop/
+    │   ├── 1.3-numpy-matplotlib/
+    │   ├── 1.4-venv-jupyter/
+    │   └── 1.5-git-github/
+    ├── phase-2-algorithms/           (coming soon)
+    ├── phase-3-dev-environment/      (coming soon)
+    ├── ...
     ├── projects/
     │   ├── kaggle-runs/
     │   └── capstone/
@@ -126,7 +161,7 @@ To ensure steady progress and maintain high standards, this repository adheres t
 ## 🎯 Key Deliverables
 
 Upon completion, this repository will yield:
-- **10+** Production-quality, deployable AI projects.
+- **10+** Production-quality, deployable AI projects. *(GIF demo placeholders will be added here upon completion)*
 - **5** Documented Kaggle competition entries.
 - **1** Deployed RAG application functioning across 3+ LLM providers via LiteLLM.
 - **1** DPO Fine-tuned model hosted on the Hugging Face Hub.
