@@ -1,0 +1,7 @@
+# Dependencies will be added here as the roadmap progresses.
+# Phase 1 (Python Foundations) has no external dependencies.
+#
+# Example (Phase 3+):
+# numpy
+# matplotlib
+# jupyter

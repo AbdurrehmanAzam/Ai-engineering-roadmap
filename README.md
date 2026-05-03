@@ -63,7 +63,7 @@ To reproduce the projects and scripts within this repository, ensure Python 3.11
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git)
+   git clone https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap.git
    cd Ai-engineering-roadmap
    ```
 
@@ -79,6 +79,11 @@ To reproduce the projects and scripts within this repository, ensure Python 3.11
 4. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
+   ```
+
+5. **Run a sample file:**
+   ```bash
+   python phase-1-python/1.1-fundamentals/hello_world.py
    ```
 
 ---
@@ -119,23 +124,19 @@ Detailed daily and weekly progress is tracked transparently in the [Progress Log
 ## 📁 Repo Structure
 
     Ai-engineering-roadmap/
+    ├── .gitignore
+    ├── CODE_OF_CONDUCT.md
+    ├── CONTRIBUTING.md
     ├── LICENSE
     ├── README.md
     ├── progress-log.md
     ├── requirements.txt
-    ├── phase-1-python/
-    │   ├── 1.1-fundamentals/
-    │   ├── 1.2-oop/
-    │   ├── 1.3-numpy-matplotlib/
-    │   ├── 1.4-venv-jupyter/
-    │   └── 1.5-git-github/
-    ├── phase-2-algorithms/           (coming soon)
-    ├── phase-3-dev-environment/      (coming soon)
-    ├── ...
-    ├── projects/
-    │   ├── kaggle-runs/
-    │   └── capstone/
-    └── notes/
+    └── phase-1-python/
+        ├── 1.1-fundamentals/        ← hello_world.py, add_two_numbers.py, …
+        ├── 1.2-oop/                 (coming soon)
+        ├── 1.3-numpy-matplotlib/    (coming soon)
+        ├── 1.4-venv-jupyter/        (coming soon)
+        └── 1.5-git-github/          (coming soon)
 
 ---
 
