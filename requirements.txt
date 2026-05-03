@@ -1,0 +1,2 @@
+# Phase-specific dependencies are added here as the curriculum progresses.
+# Install with: pip install -r requirements.txt
