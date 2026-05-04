@@ -21,29 +21,6 @@ This repository serves as the central hub, code portfolio, and audit trail for a
 
 ---
 
-## 🗺️ Visual Architecture & Roadmap
-```mermaid
-graph TD
-    A[Phase 1: Programming Foundations] --> B[Phase 4: Mathematics for AI]
-    B --> C[Phase 5: Data Engineering]
-    C --> D[Phase 6: Classical Machine Learning]
-    D --> E[Phase 7: Production Engineering & MLOps]
-    E --> F[Phase 8: Deep Learning Foundations]
-    
-    F --> G{Vertical Specialization}
-    G -->|Awareness| H[Phase 8B/8C: Computer Vision & Audio]
-    G -->|Deep Dive| I[Phase 9: Advanced MLOps & Ethics]
-    
-    I --> J[Phase 10: Generative AI & RAG]
-    J --> K[Phase 11: AI Engineering Sprint]
-    K --> L[Phase 12 & 13: Capstone, Portfolio & Career]
-    
-    style G fill:#f9f,stroke:#333,stroke-width:2px
-    style K fill:#bbf,stroke:#333,stroke-width:2px
-```
-
----
-
 ## 🏗️ Tech Stack
 
 The skills targeted in this roadmap are categorized by their role in the ML lifecycle. Items marked *(awareness)* represent broad architectural knowledge rather than deep specialization for the LLM Application track.
