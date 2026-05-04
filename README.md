@@ -135,6 +135,7 @@ Detailed daily and weekly progress is tracked transparently in the [Progress Log
     ├── ...
     ├── projects/
     │   ├── kaggle-runs/
+    │   ├── text-stats/
     │   └── capstone/
     └── notes/
 
