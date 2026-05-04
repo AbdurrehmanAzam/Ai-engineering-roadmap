@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Python Fundamentals (Shradha Khapra course, Lecture 2 completed)  
-- **Next Up:** `Phase 01` – Lecture 3 (Lists & Tuples)
+- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Nitish Singh, starting Lists & Tuples)  
+- **Next Up:** `Phase 01` – Continue CampusX Python course, then OOP (Phase 1.2)
 
 ---
 
@@ -28,6 +28,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-03** | `Admin` | Portfolio Infrastructure | Added MIT LICENSE, polished README (environment setup, progress tracking, privacy). Connected GitHub to LinkedIn. |
 | **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed Lecture 2 (Strings & Conditionals). Shipped **8 programs**: [`area_of_square.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/area_of_square.py), [`input_two_numbers_sum.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/input_two_numbers_sum.py), [`average_of_two_numbers.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/average_of_two_numbers.py), `if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`, `string_functions.py`, `array_and_slicing.py`, `combining_and_finding_length_of_string.py`, `find_dollar_occurrence.py`, `first_name_length.py`. [View all files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-03** | `Admin` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned repo (removed `.gitkeep`). Created this progress log. |
+| **2026-05-04** | `Phase 01` | Python Fundamentals (CampusX – Nitish Singh, transition from Apna College) | Switched to CampusX for more AI‑oriented Python learning. Pushed three programs: `check_number_even_or_odd.py`, `check_number_multiple_of_seven.py`, `find_greatest_number.py`. Started CampusX lecture on Lists & Tuples. |
 
 ---
 
