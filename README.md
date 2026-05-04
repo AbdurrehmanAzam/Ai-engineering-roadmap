@@ -76,10 +76,11 @@ To reproduce the projects and scripts within this repository, ensure Python 3.11
    * **Windows:** `.\venv\Scripts\activate`
    * **Mac/Linux:** `source venv/bin/activate`
 
-4. **Install dependencies:**
+4. **Install dependencies (optional for now):**
    ```bash
    pip install -r requirements.txt
    ```
+   requirements.txt is intentionally minimal and will grow as new tools are introduced.
 
 ---
 
