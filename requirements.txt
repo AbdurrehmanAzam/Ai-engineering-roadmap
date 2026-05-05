@@ -1,1 +1,81 @@
-# No third-party dependencies yet.
+# ==========================================
+# AI ENGINEERING ROADMAP DEPENDENCIES
+# ==========================================
+
+# --- Phase 1: Programming Foundations ---
+numpy
+matplotlib
+jupyter
+
+# --- Phase 5 & 5C: Data Engineering & Orchestration ---
+pandas
+requests
+beautifulsoup4
+dvc
+prefect
+pyarrow
+
+# --- Phase 5B: Databases for AI ---
+pgvector
+pymongo
+boto3
+
+# --- Phase 6: Classical Machine Learning ---
+scikit-learn
+xgboost
+shap
+
+# --- Phase 7: Production Engineering ---
+streamlit
+fastapi
+uvicorn
+pytest
+mlflow
+wandb
+codecarbon
+
+# --- Phase 7B: ML Testing & Hygiene ---
+great_expectations
+deepchecks
+whylogs
+ruff
+mypy
+pydantic-settings
+pre-commit
+
+# --- Phase 8 & 8B: Deep Learning & Computer Vision ---
+torch
+torchvision
+fastai
+transformers
+opencv-python
+ultralytics
+
+# --- Phase 8C: Speech & Audio AI ---
+faster-whisper
+pyttsx3
+pyannote.audio
+
+# --- Phase 8.5 & 9: MLOps & Deployment ---
+vllm
+evidently
+
+# --- Phase 9B: Responsible AI & Ethics ---
+aif360
+lime
+model-card-toolkit
+presidio-analyzer
+presidio-anonymizer
+
+# --- Phase 10 & 11: GenAI, RAG & Agents ---
+peft
+chromadb
+dspy-ai
+litellm
+redis
+langchain
+langgraph
+pydantic-ai
+guardrails-ai
+pyrit
+ragas
