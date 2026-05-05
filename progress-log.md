@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – 100 Days of Python, currently covering loops & login project)  
-- **Next Up:** `Phase 01` – Continue For Loops & Nested Loops (Day 9‑10), then OOP (Phase 1.2)
+- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – 100 Days of Python, practicing loops, range, and building logic independently)  
+- **Next Up:** `Phase 01` – For Loops (Day 9) and Nested Loops (Day 10), then OOP (Phase 1.2)
 
 ---
 
@@ -29,6 +29,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-03** | `Phase 01` | Python Fundamentals (Shradha Khapra – Lecture 2) | Completed strings & conditionals. Built 8 programs: `area_of_square.py`, `input_two_numbers_sum.py`, `average_of_two_numbers.py`, `if_else_conditions.py`, `if_else_grade_problem.py`, `nested_if_else.py`, `string_functions.py`, `array_and_slicing.py`, `combining_and_finding_length_of_string.py`, `find_dollar_occurrence.py`, `first_name_length.py`. [View all files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-03** | `Admin` | Git Workflow | Resolved first `git push` rejection with `git pull`. Cleaned repo (removed `.gitkeep`). Created this progress log. |
 | **2026-05-04** | `Phase 01` | Python Fundamentals (CampusX – 100 Days of Python, Days 1‑8) | Switched to CampusX. Covered type conversion, literals, operators, if‑else, nested if, indentation, while loop, guessing game. Also practiced lists (`making_array.py`) and built a login program with email validation & retry logic (`making_login_program.py`). Pushed all programs. [View files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
+| **2026-05-05** | `Phase 01` | Python Fundamentals (CampusX – Days 8‑9, loops & range) | Built 4 programs independently: `guess_game.py` (random number + attempt counter, built after pausing tutorial and researching `random.randint()`), `Table_print_using_user_input.py` (multiplication table using while loop and f‑strings), `experimentation_on_range_func.py` (explored `range()` with while, for, step, reverse), `Indentation_example.py` (demonstrated Python indentation rule). [View files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 
 ---
 
