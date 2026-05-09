@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Lists completed, moving to Tuples, Sets, and Dictionary)  
-- **Next Up:** `Phase 01` – Tuples, Sets, Dictionary (Days 25‑27), then Functions, then OOP (Phase 1.2)
+- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Tuples completed, moving to Sets and Dictionary)  
+- **Next Up:** `Phase 01` – Sets (Day 26), Dictionary (Day 27), Functions (Day 29), then OOP (Phase 1.2)
 
 ---
 
@@ -33,6 +33,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-06** | `Phase 01` | Python Fundamentals (CampusX – Days 13‑16, for-loops, nested patterns, control statements, built‑in functions) | Pushed 5 programs in separate commits: `asterisk_triangle_nested_loops.py` (nested for‑loop printing pattern), `break_statement.py` (break in for‑loop), `continue_statement.py` (continue in for‑loop), `pass_statement.py` (pass placeholder), `build_in_func.py` (practiced type(), abs(), pow(), round(), ord(), id(), len(), sum() and other built‑ins). [View files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-07** | `Phase 01` | Python Fundamentals (CampusX – Days 18‑23, strings & modules) | Explored built‑in modules (`built_in_modules.py`). Practiced string creation, indexing, slicing, immutability, and operations. Completed string functions deep dive: `string_functions_experimentation.py` (len, max, min, sorted, case methods, find, format, split, join, replace, strip — deliberate experiment with placeholder swap). [View files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-08** | `Phase 01` | Python Fundamentals (CampusX – Day 24, Lists) | Completed list operations: creation, multi‑dimensional lists, slicing, editing (append, extend, insert, pop, remove, clear), sort, membership, and deduplication. Pushed 4 list programs. Adopted conventional commits (`feat:`, `fix:`) and `ruff` linting for all new files. Hardened environment: cleaned stray envs, enabled auto‑activation of `base`. |
+| **2026-05-09** | `Phase 01` | Python Fundamentals (CampusX – Day 25, Tuples) | Demonstrated tuple creation, indexing, and the concept of immutability (`creating_and_accessing_tuples_in_python.py`). Explored tuple editing constraints, operations (repeat, concatenation, loops), and built‑in functions (len, max, min, sum, sorted) in `Editing_and_deleating_in_tuples.py`. All files linted with `ruff` and committed with conventional messages. |
 
 ---
 
