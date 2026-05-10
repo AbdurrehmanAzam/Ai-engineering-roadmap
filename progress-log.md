@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Sets completed, moving to Dictionary and Functions)  
-- **Next Up:** `Phase 01` – Dictionary (Day 27), Functions (Day 29), then OOP (Phase 1.2)
+- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Dictionary completed, moving to Deep Dive & Functions)  
+- **Next Up:** `Phase 01` – Deep Dive (Day 28), Functions (Day 29), then OOP (Phase 1.2)
 
 ---
 
@@ -33,7 +33,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-06** | `Phase 01` | Python Fundamentals (CampusX – Days 13‑16, for-loops, nested patterns, control statements, built‑in functions) | Pushed 5 programs in separate commits: `asterisk_triangle_nested_loops.py` (nested for‑loop printing pattern), `break_statement.py` (break in for‑loop), `continue_statement.py` (continue in for‑loop), `pass_statement.py` (pass placeholder), `build_in_func.py` (practiced type(), abs(), pow(), round(), ord(), id(), len(), sum() and other built‑ins). [View files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-07** | `Phase 01` | Python Fundamentals (CampusX – Days 18‑23, strings & modules) | Explored built‑in modules (`built_in_modules.py`). Practiced string creation, indexing, slicing, immutability, and operations. Completed string functions deep dive: `string_functions_experimentation.py` (len, max, min, sorted, case methods, find, format, split, join, replace, strip — deliberate experiment with placeholder swap). [View files](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/tree/main/phase-1-python/1.1-fundamentals). |
 | **2026-05-08** | `Phase 01` | Python Fundamentals (CampusX – Day 24, Lists) | Completed list operations: creation, multi‑dimensional lists, slicing, editing (append, extend, insert, pop, remove, clear), sort, membership, and deduplication. Pushed 4 list programs. Adopted conventional commits (`feat:`, `fix:`) and `ruff` linting for all new files. Hardened environment: cleaned stray envs, enabled auto‑activation of `base`. |
-| **2026-05-09** | `Phase 01` | Python Fundamentals (CampusX – Day 25 & 26, Tuples & Sets) | Completed tuples: creation, indexing, immutability, operations, and built‑in functions (`creating_and_accessing_tuples_in_python.py`, `Editing_and_deleating_in_tuples.py`). Completed sets: creation, duplicate handling, add/remove/pop, union, intersection, difference, symmetric difference, and set comparison methods (`Sets.py`). Re‑installed Git and restored global config after PATH issue. All files linted with `ruff` and committed with conventional messages. |
+| **2026-05-09** | `Phase 01` | Python Fundamentals (CampusX – Day 25 & 26, Tuples & Sets) | Completed tuples: creation, indexing, immutability, operations, and built‑in functions (`creating_and_accessing_tuples_in_python.py`, `Editing_and_deleating_in_tuples.py`). Completed sets: creation, duplicate handling, add/remove/pop, union, intersection, difference, symmetric difference, and set comparison methods (`Sets.py`). Re‑installed Git and restored global config after PATH issue. |
+| **2026-05-10** | `Phase 01` | Python Fundamentals (CampusX – Day 27, Dictionary) | Mastered dictionaries: creation, unique keys, nested dictionaries (`create_dictionary.py`). Practiced accessing values by key including nested indexing (`access_dictionary.py`). Edited existing values and nested updates (`editing_dictonary.py`). Added & deleted keys, performed nested insertion, and emptied a dict with `clear()` (`adding_and_deleting_dictonary.py`). Iterated over keys, values, and performed membership checks (`operations_dictonary.py`). Explored dictionary functions: len, max, min, sorted, keys, values (`functions_dictionary.py`). All files linted and committed with conventional messages. |
 
 ---
 
