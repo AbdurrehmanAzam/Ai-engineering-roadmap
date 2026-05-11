@@ -4,15 +4,15 @@
 
 This log is the transparent audit trail for my transition into AI Engineering (36 months), following Edition 10.0 of the roadmap. It tracks active coding days, completed modules, and shipped deliverables across all 13 phases.
 
-**Track:** LLM Application Engineer (Track A)  
-**Start Date:** 1 May 2026  
+**Track:** LLM Application Engineer (Track A)
+**Start Date:** 1 May 2026
 **Target End:**  2028/2029
 
 ---
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Dictionary completed, moving to Deep Dive & Functions)  
+- **Current Focus:** `Phase 01` – Python Fundamentals (CampusX – Dictionary completed, moving to Deep Dive & Functions)
 - **Next Up:** `Phase 01` – Deep Dive (Day 28), Functions (Day 29), then OOP (Phase 1.2)
 
 ---
@@ -35,6 +35,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-08** | `Phase 01` | Python Fundamentals (CampusX – Day 24, Lists) | Completed list operations: creation, multi‑dimensional lists, slicing, editing (append, extend, insert, pop, remove, clear), sort, membership, and deduplication. Pushed 4 list programs. Adopted conventional commits (`feat:`, `fix:`) and `ruff` linting for all new files. Hardened environment: cleaned stray envs, enabled auto‑activation of `base`. |
 | **2026-05-09** | `Phase 01` | Python Fundamentals (CampusX – Day 25 & 26, Tuples & Sets) | Completed tuples: creation, indexing, immutability, operations, and built‑in functions (`creating_and_accessing_tuples_in_python.py`, `Editing_and_deleating_in_tuples.py`). Completed sets: creation, duplicate handling, add/remove/pop, union, intersection, difference, symmetric difference, and set comparison methods (`Sets.py`). Re‑installed Git and restored global config after PATH issue. |
 | **2026-05-10** | `Phase 01` | Python Fundamentals (CampusX – Day 27, Dictionary) | Mastered dictionaries: creation, unique keys, nested dictionaries (`create_dictionary.py`). Practiced accessing values by key including nested indexing (`access_dictionary.py`). Edited existing values and nested updates (`editing_dictonary.py`). Added & deleted keys, performed nested insertion, and emptied a dict with `clear()` (`adding_and_deleting_dictonary.py`). Iterated over keys, values, and performed membership checks (`operations_dictonary.py`). Explored dictionary functions: len, max, min, sorted, keys, values (`functions_dictionary.py`). All files linted and committed with conventional messages. |
+| **2026-05-11** | `Admin` | Environment Modernization | Migrated from Python 3.11 + micromamba to Python 3.12 + `uv`. Removed micromamba entirely, installed `uv 0.11.13` and CPython 3.12.13. Configured VS Code `settings.json`: set Code Runner to `cd $dir && uv run python -u $fileName`, pointed `python.defaultInterpreterPath` to the `uv`‑managed Python, switched `python-envs.defaultEnvManager` to `ms-python.python:uv`. Verified full toolchain in PowerShell. |
+| **2026-05-11** | `Phase 01` | Python Deep Dive – Mutability, References & Modules (CampusX Day 28) | Completed Day 28 deep dive. Built six script files: [`Mutability.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/Mutability.py) proved string & tuple immutability and list mutability via `id()`; [`mutability_side_effects.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/mutability_side_effects.py) demonstrated aliasing risks and cloning prevention with `[:]`; [`object_references.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/object_references.py) verified call‑by‑object reference, shared addresses, `del` behaviour, and reassignment; [`reference_counting.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/reference_counting.py) measured reference counts with `sys.getrefcount()`; [`math_utils.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/math_utils.py) created a documented custom module; [`importing_modules.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/importing_modules.py) imported and aliased the module. All files linted with `ruff`, committed with conventional messages, and pushed. |
 
 ---
 
