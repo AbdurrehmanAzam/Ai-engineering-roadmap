@@ -6,14 +6,14 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 **Track:** LLM Application Engineer (Track A)
 **Start Date:** 1 May 2026
-**Target End:**  2028/2029
+**Target End:** 2028/2029
 
 ---
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Phase 1.1 closed ✓; moving to OOP (Corey Schafer series)
-- **Next Up:** `Phase 1.2` – Corey Schafer OOP Tutorial (6 videos). Write a .py file per video, lint with ruff, commit with conventional commits.
+- **Current Focus:** `Phase 01` – Python OOP Basics (Classes, `__init__`, `self`) ✓; moving to custom Methods.
+- **Next Up:** `Phase 1.2` – Adding custom methods to classes and exploring class inheritance.
 
 ---
 
@@ -39,6 +39,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-11** | `Phase 01` | Python Deep Dive – Mutability, References & Modules (CampusX Day 28) | Completed Day 28 deep dive. Built six script files: [`Mutability.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/Mutability.py) proved string & tuple immutability and list mutability via `id()`; [`mutability_side_effects.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/mutability_side_effects.py) demonstrated aliasing risks and cloning prevention with `[:]`; [`object_references.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/object_references.py) verified call‑by‑object reference, shared addresses, `del` behaviour, and reassignment; [`reference_counting.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/reference_counting.py) measured reference counts with `sys.getrefcount()`; [`math_utils.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/math_utils.py) created a documented custom module; [`importing_modules.py`](https://github.com/AbdurrehmanAzam/Ai-engineering-roadmap/blob/main/phase-1-python/1.1-fundamentals/importing_modules.py) imported and aliased the module. All files linted with `ruff`, committed with conventional messages, and pushed. |
 | **2026-05-12** | `Phase 01` | Python Fundamentals – Functions Deep Dive | Wrote and committed 5 function files: `arbitary_arguments_function.py` (arbitrary args, sum), `default_arguments_function.py` (defaults, comments), `functions_as_objects.py` (functions as objects, deletion behavior), `keyword_arguments_function.py` (keyword vs positional override), `nested_function.py` (nested `def`). Each committed separately with conventional commits. |
 | **2026-05-12** | `Phase 01` | Python Fundamentals – W3Schools Exercises & Phase 1.1 Closure | Completed 30+ W3Schools exercises across all 8 required categories (Syntax, Variables, Strings, Lists, Dictionaries, If/Elif, While Loops, Functions). Phase 1.1 officially closed. Ready for OOP. |
+| **2026-05-13** | `Phase 01` | Python OOP - Classes & Constructors | Started OOP module. Wrote `01_classes_and_constructors.py`. Learned the difference between manual attribute assignment and using the `__init__` constructor. Deep dive into the `self` keyword and object instantiation. |
+| **2026-05-13** | `Admin` | Environment Sandbox & Linting | Encountered and resolved global vs local package execution errors with `uv`. Learned `uvx` for ephemeral tool execution and `uv venv` to create isolated project sandboxes. Successfully linted OOP script with `ruff` and committed it. |
 
 ---
 
