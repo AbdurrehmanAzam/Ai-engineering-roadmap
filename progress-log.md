@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 01` – Python OOP Basics (Classes, `__init__`, `self`) ✓; moving to custom Methods.
-- **Next Up:** `Phase 1.2` – Adding custom methods to classes and exploring class inheritance.
+- **Current Focus:** `Phase 1.2` – Python OOP Object Interaction (Character Combat Engine) and Single-Level Inheritance.
+- **Next Up:** `Phase 1.3` – Data manipulation and arrays with NumPy & Matplotlib.
 
 ---
 
@@ -41,6 +41,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-12** | `Phase 01` | Python Fundamentals – W3Schools Exercises & Phase 1.1 Closure | Completed 30+ W3Schools exercises across all 8 required categories (Syntax, Variables, Strings, Lists, Dictionaries, If/Elif, While Loops, Functions). Phase 1.1 officially closed. Ready for OOP. |
 | **2026-05-13** | `Phase 01` | Python OOP - Classes & Constructors | Started OOP module. Wrote `01_classes_and_constructors.py`. Learned the difference between manual attribute assignment and using the `__init__` constructor. Deep dive into the `self` keyword and object instantiation. |
 | **2026-05-13** | `Admin` | Environment Sandbox & Linting | Encountered and resolved global vs local package execution errors with `uv`. Learned `uvx` for ephemeral tool execution and `uv venv` to create isolated project sandboxes. Successfully linted OOP script with `ruff` and committed it. |
+| **2026-05-13** | `Phase 01` | Python OOP - Attributes & Instance Methods | Completed 6 additional OOP files (`02` through `07`). Mastered class vs. instance variables, the `self` pointer scope, and `@staticmethod`. Built an interactive CLI banking application (`07_credit_debit_bank.py`) to demonstrate internal state mutation. Executed 7 sequential atomic commits to document the logical progression. |
 
 ---
 
