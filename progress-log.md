@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1.2` – Python OOP: Dunder Methods (`__str__`, `__repr__`, `__len__`) and Method Resolution Order (MRO) mechanics.
-- **Next Up:** `Phase 1.3` – Data manipulation and arrays with NumPy & Matplotlib.
+- **Current Focus:** `Phase 1.3` – Data manipulation and arrays with NumPy & Matplotlib.
+- **Next Up:** Mastering N-dimensional arrays, vectorization, and plotting data distributions.
 
 ---
 
@@ -43,6 +43,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-13** | `Admin` | Environment Sandbox & Linting | Encountered and resolved global vs local package execution errors with `uv`. Learned `uvx` for ephemeral tool execution and `uv venv` to create isolated project sandboxes. Successfully linted OOP script with `ruff` and committed it. |
 | **2026-05-13** | `Phase 01` | Python OOP - Attributes & Instance Methods | Completed 6 additional OOP files (`02` through `07`). Mastered class vs. instance variables, the `self` pointer scope, and `@staticmethod`. Built an interactive CLI banking application (`07_credit_debit_bank.py`) to demonstrate internal state mutation. Executed 7 sequential atomic commits to document the logical progression. |
 | **2026-05-14** | `Phase 01` | Python OOP - Encapsulation & Inheritance | Mastered object lifecycle deletion (`del`) and data encapsulation via the `@property` decorator. Engineered hierarchical inheritance with protected methods and explored explicit multiple inheritance mechanics (constructor chaining, MRO, `super()`). Pushed 4 scripts using atomic commits: `08_attribute_lifecycle_deletion.py`, `09_encapsulation_and_properties.py`, `10_hierarchical_inheritance.py`, `11_multiple_inheritance_mechanics.py`. |
+| **2026-05-14** | `Phase 01` | Python OOP - Dunder Methods & Phase 1.2 Closure | Mastered polymorphism and operator overloading using double underscore (dunder) hooks. Engineered a `Complex` number class utilizing `__add__`, `__sub__`, and `__str__` for native syntactic sugar. Officially closed Phase 1.2. |
 
 ---
 
