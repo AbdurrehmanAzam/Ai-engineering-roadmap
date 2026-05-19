@@ -12,8 +12,8 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 
 ## 🎯 Current Focus & Next Up
 
-- **Current Focus:** `Phase 1.3` – Data manipulation and arrays with NumPy & Matplotlib.
-- **Next Up:** Vectorized math operations and data visualization.
+- **Current Focus:** `Phase 1.4` – uv Package Manager (integrating uv with existing projects) & reviewing Git workflow.
+- **Next Up:** Complete Phase 1.4 (uv commands, virtual environments, `uv run`), then begin Phase 2 (Algorithm Engineering – NeetCode 150) in parallel with Phase 3 (Dev Environment & AI Tools).
 
 ---
 
@@ -48,6 +48,7 @@ This log is the transparent audit trail for my transition into AI Engineering (3
 | **2026-05-16** | `Phase 01` | NumPy Math & Memory | Mastered matrix initialization (zeros, full, random, identity). Resolved memory pointer traps using physical allocation (`.copy()`). Implemented vectorized element-wise arithmetic and logarithmic calculations. Executed atomic repository refactoring for professional file naming standards. |
 | **2026-05-17** | `Phase 01` | NumPy Linear Algebra, Manipulation & Masking | Mastered array manipulation (`reshape`, `vstack`, `hstack`), external data loading (`genfromtxt`), matrix multiplication (`matmul`), determinant calculation, statistical aggregations (`axis`), and advanced boolean masking. Executed atomic commits with industry-standard file naming conventions. |
 | **2026-05-18** | `Phase 01` | Matplotlib Foundations | Initialized Matplotlib via `uv`. Implemented multi-line charts comparing developer salaries by age. Configured axes labels, titles, legends, and custom line markers/styles. |
+| **2026-05-19** | `Phase 01` | Matplotlib Parts 1‑5 (Line, Bar, CSV, Pie, Stack) | Completed the selective Matplotlib tutorial (Corey Schafer Parts 1‑5). Created and committed 5 scripts: `13_line_charts.py` (fixed styling), `14_bar_charts.py` (grouped bar chart), `15_adding_CSV_file.py` (horizontal bar chart from company profit CSV), `16_pie_charts.py` (subject marks percentage pie chart), `17_stack_plots.py` (player score stack plot). Used `fivethirtyeight` and `ggplot` styles, manual CSV loading, and various customizations (`explode`, `autopct`, `shadow`, `wedgeprops`). Committed each file separately with conventional commits. Also added `pyproject.toml`, `uv.lock`, `.python-version` to track the uv environment. |
 
 ---
 
